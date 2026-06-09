@@ -1,0 +1,146 @@
+[
+  {
+    "Theme": "Deal Size & Value Creation",
+    "Category": "Integration Cost Efficiency",
+    "Insight": "Deals in the $1B–$10B range incur X% higher integration costs (% of deal value) compared to smaller deals (<$1B), indicating higher complexity in mid-sized integrations",
+    "Chart Type": "Column Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Integration Cost as a % of Deal Value"
+  },
+  {
+    "Theme": "Deal Size & Value Creation",
+    "Category": "Revenue Synergy Scaling",
+    "Insight": "Smaller deals (<$1B) generate X% higher revenue synergies (% of deal value) compared to mid-sized ($1B–$10B) deals, with synergies declining as deal size increases",
+    "Chart Type": "Line Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Annual revenue synergy as a % of Deal Value"
+  },
+  {
+    "Theme": "Deal Size & Value Creation",
+    "Category": "Cost Synergy Scaling",
+    "Insight": "Cost synergies as a % of deal value decline by X% as deal size increases from <$1B to $1B–$10B, indicating diminishing returns at scale",
+    "Chart Type": "Line Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Cost synergy as a % of Deal Value"
+  },
+  {
+    "Theme": "Deal Size & Value Creation",
+    "Category": "Value Creation Intensity",
+    "Insight": "Smaller deals (<$1B) deliver higher combined synergy value (revenue + cost) per dollar invested compared to larger deals",
+    "Chart Type": "Waterfall Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Annual revenue synergy as a % of Deal Value + Cost synergy as a % of Deal Value"
+  },
+  {
+    "Theme": "Deal Size & Value Creation",
+    "Category": "Integration Cost vs Value Tradeoff",
+    "Insight": "Despite higher integration costs (X%), mid-sized deals ($1B–$10B) do not proportionately outperform smaller deals in synergy generation, indicating suboptimal value capture",
+    "Chart Type": "Combo Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Integration Cost as a % of Deal Value + Cost synergy as a % of Deal Value"
+  },
+  {
+    "Theme": "Synergy Realization & Value Creation",
+    "Category": "OTC Realization by Deal Size",
+    "Insight": "Deals in the $1B–$10B range achieve X% higher OTC realization (% of synergies) compared to deals >$10B and <$1B",
+    "Chart Type": "Column Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "OTC as a % of Synergy Realised"
+  },
+  {
+    "Theme": "Synergy Realization & Value Creation",
+    "Category": "Revenue Synergy Performance",
+    "Insight": "Smaller deals (<$1B) generate X% higher revenue synergies (% of deal value) than mid and large deals",
+    "Chart Type": "Line Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Annual revenue synergy as a % of Deal Value"
+  },
+  {
+    "Theme": "Synergy Realization & Value Creation",
+    "Category": "Cost Synergy Dependence",
+    "Insight": "Large deals (>$10B) rely more on cost synergies (X% of deal value) compared to smaller deals, indicating cost-led value creation",
+    "Chart Type": "Column Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Cost synergy as a % of Deal Value"
+  },
+  {
+    "Theme": "Synergy Realization & Value Creation",
+    "Category": "Synergy Mix Shift",
+    "Insight": "As deal size increases, synergy mix shifts from revenue-led (X%) to cost-led (Y%) synergies",
+    "Chart Type": "Line Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Annual revenue synergy as a % of Deal Value"
+  },
+  {
+    "Theme": "Workforce and cost transformation",
+    "Category": "One-Time Cost Intensity",
+    "Insight": "Deals in the $1B–$10B range incur X% lower Total OTC (% of deal value) compared to smaller deals (<$1B), indicating better cost efficiency in mid-sized transactions.",
+    "Chart Type": "Column Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Total OTC as % of Deal Value"
+  },
+  {
+    "Theme": "Workforce and cost transformation",
+    "Category": "Transaction Cost Ratio by Deal Value",
+    "Insight": "Deals in the $500M–$3B range incur X lower transaction cost (% of deal value) compared to smaller deals (< $500M), indicating better cost efficiency in mid-sized transactions.",
+    "Chart Type": "Column Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Transaction Cost as a % of Deal Value"
+  },
+  {
+    "Theme": "Workforce and cost transformation",
+    "Category": "Operating Synergy Capture",
+    "Insight": "Deals in the $1B–$10B range achieve X% higher combined baseline OPEX reduction (% of deal value) compared to smaller deals (<$1B), indicating stronger operational synergy capture in mid-sized transactions.",
+    "Chart Type": "Column Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Combined baseline OPEX reduction %"
+  },
+  {
+    "Theme": "Workforce and cost transformation",
+    "Category": "Workforce Rationalization Impact",
+    "Insight": "Deals in the $500M–$3B range show X lower headcount reduction (%) compared to smaller deals (< $500M), indicating lower workforce rationalization intensity in mid-sized transactions",
+    "Chart Type": "Combo Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Headcount Reduction % + Headcount Reduction FTE"
+  },
+  {
+    "Theme": "Integration cost and Efficiency",
+    "Category": "Efficiency Execution",
+    "Insight": "Deals between $1B and $10B show integration costs that are X% higher as a percentage of synergies realized compared to both smaller (<$1B) and larger (>$10B) deals, suggesting mid-sized deals face efficiency challenges during integration.",
+    "Chart Type": "Clustered Column Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Integration Cost as a % of Synergy Realized"
+  },
+  {
+    "Theme": "Integration cost and Efficiency",
+    "Category": "Integration Cost Analysis",
+    "Insight": "Smaller deals (<$1B) experience integration costs averaging X% of deal value, significantly higher than large deals (>$10B) at X%, implying cost advantages of scale in larger transactions.",
+    "Chart Type": "Clustered Column Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Integration Cost as a % of Deal Value"
+  },
+  {
+    "Theme": "Speed and Execution",
+    "Category": "Execution Maturity",
+    "Insight": "Smaller deals (<$500M) outperform despite slower execution, while larger deals ($1B+) execute faster but increasingly underperform against synergy targets.",
+    "Chart Type": "Bar Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Time to Synergy Capture"
+  },
+  {
+    "Theme": "Speed and Execution",
+    "Category": "Execution Maturity",
+    "Insight": "Smaller deals (<$500M) outperform despite slower execution, while larger deals ($1B+) execute faster but increasingly underperform against synergy targets.",
+    "Chart Type": "Bar Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Time to TSA Exist"
+  },
+  {
+    "Theme": "Speed and Execution",
+    "Category": "Value Leakage",
+    "Insight": "Despite faster execution, both mid-sized and large deals continue to miss targets—showing that speed alone isn’t driving consistent value capture.",
+    "Chart Type": "Clustered Column Chart & Line Chart",
+    "X-axis": "Deal Value Range",
+    "Y-axis": "Gap between Time to Synergy Capture and Time to TSA Exist"
+  }
+]
